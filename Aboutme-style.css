@@ -1,0 +1,22 @@
+body {
+ 
+    
+    background-color: lightgreen;
+}
+#r2{
+    color: brown;
+}
+#h1{
+    color: blue;
+    font-size: 100px;
+    font-family: Courier New;
+    font-weight: bold;
+    font-style: italic;
+}
+#p1{
+    color: red;
+    font-size: 40px;
+    font-family: Verdana;
+    font-weight: bold;
+    font-style: italic;
+}
